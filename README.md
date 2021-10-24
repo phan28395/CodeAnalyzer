@@ -1,5 +1,5 @@
 # CodeAnalyzer
-Check if a code file have error
+Check if a code file have error.
 This programm will check if your code have the following error:
 1) Long code line (greater than 79 char)
 2) Indentation check ( indentation must be a multiple of four)
